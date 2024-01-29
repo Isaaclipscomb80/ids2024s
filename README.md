@@ -9,4 +9,4 @@
 **Level:** Senior  
 **Position Title:** Student  
 **Course Webpage:** [Amirs homepage](www.cdslab.org)  
-**Photo:** ![A photo of Isaac]()
+**Photo:** ![A photo of Isaac](IMG_3780.jpeg)
