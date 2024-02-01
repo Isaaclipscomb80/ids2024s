@@ -1,1 +1,1 @@
-This folderr will contain my exams.
+This folder will contain my exams.
