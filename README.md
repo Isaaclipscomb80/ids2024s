@@ -20,7 +20,8 @@ This directory contains all my quiz submissions, each of which is a folder prope
 + [exam](exam)./:  
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
 >I have not failed . I have found 1000 ways that wont work.  
->Thomas Edison  
+>Thomas Edison
+  
 For questions and troubleshooting, please contact:  
 <Isaac Lipscomb>  
 <ixl7144@mavs.uta.edu>  
