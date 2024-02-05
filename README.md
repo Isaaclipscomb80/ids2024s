@@ -22,6 +22,6 @@ This directory contains all my exam submissions, each of which is a folder prope
 For questions and troubleshooting, please contact:  
 <Isaac Lipscomb>  
 <ixl7144@mavs.uta.edu>  
-<any other contact or signature information that you would like to add>  
+  
 > I have not failed. I have found 1000 ways that wont work.  
 > Thomas Edison.
