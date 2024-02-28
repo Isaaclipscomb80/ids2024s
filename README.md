@@ -11,7 +11,7 @@
 **Course Webpage:** [Amirs homepage](www.cdslab.org)  
 **Photo:** ![A photo of Isaac](IMG_3780.jpeg)  
  This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:  
-+ [homework](./hw):  
++ [homework](./HW):  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.  
 a. git pull Downloads bookmark history and incorporate changes.  
 b. git status List all new or modified files to be committed.  
