@@ -41,10 +41,10 @@ Show, via Venn diagrams, that AB≢A B.
 
 Show, via Venn diagram or truth table, that A+B≢A+ B.  
 
-NAND equivalence.
-
-Logic NAND and NOR.
-
+NAND equivalence.  
+A NAND gate is equivalent to an inverted-input OR gate.  
+Logic NAND and NOR.  
+The NOR (NOT OR) gate is a combination OR gate followed by an inverter. Its output is true if both inputs are false.
 Logical implication in terms of logic functions.
-
+implication, in logic, a relationship between two propositions in which the second is a logical consequence of the first.
 Show via a Venn Diagram or a Truth Table, or explain by a logical argument that (A⇒B) ≡ (B⎯⎯⎯⎯⇒A⎯⎯⎯⎯). Hint. This is a very simple question. Recall what logical implication means in terms of a Venn diagram. How does A look relative to B? Does the same also hold for B⎯⎯⎯⎯ relative to A⎯⎯⎯⎯?
